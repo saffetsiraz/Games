@@ -16,6 +16,7 @@ You can see the changelog for Merge Buddies here.
 #### What's New
 - Optimized game
 
+<br>
 
 ### **Version 1.009**
 
@@ -46,13 +47,12 @@ You can see the changelog for Merge Buddies here.
 
 <br>
 
-## **Version 1.004**
+### **Version 1.004**
 
 #### Bug Fixes
 - Fixed an issue where the following objects would flicker after a period of time
 
 <br>
-________
 
 ### `Initial Release`
 
