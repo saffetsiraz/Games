@@ -1,71 +1,75 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
-{% if site.ios_app_id %}
+{% if site.android_app_id %}
 
 <script>
+    $(function() {
+        var packageName = "{{ site.android_app_id }}"; // com.example.app
+        var playStoreURL = "https://play.google.com/store/apps/details?id=" + packageName + "&hl={{ site.android_app_lang }}&gl={{ site.android_app_country }}";
 
-$(function() {
+        // Geliştirme için ücretsiz proxy (Production'da kendi backend'ini kullan)
+        var proxyURL = "https://cors-anywhere.herokuapp.com/";
 
-    var apiURL = "https://itunes.apple.com/lookup?id={{ site.ios_app_id }}&country={{ site.ios_app_country }}&callback=?";
+        $.get(proxyURL + playStoreURL, function(data) {
+            var html = $(data);
 
-    $.getJSON(apiURL, function(json) {
+            // App icon
+            var iconURL = html.find('img.T75of.sHb2Xb').first().attr('src') || html.find('img.T75of').first().attr('src');
 
-        if (json.results && json.results.length) {
+            // App title
+            var appTitle = html.find('h1 span').first().text();
 
-            console.info("Image strings loaded from Apple API.");
-            var appInfo = json.results[0];
+            // Price (Ücretsizse "Install" gibi gelebilir)
+            var price = html.find('meta[itemprop="price"]').attr('content') || "Free";
 
-            // Set favicon
-            $('link[rel="shortcut icon"]').attr("href", appInfo.artworkUrl512);
+            // Favicon
+            $('link[rel="shortcut icon"]').attr("href", iconURL);
 
-            // Set page title using the iOS app ID if it is not set manually in _config.yml
+            // Sayfa başlığı
             var $pageTitle = $(".pageTitle");
-            if ($.trim($($pageTitle).text()).length == 0) {
-                $($pageTitle).html(appInfo.trackName);
+            if ($.trim($pageTitle.text()).length == 0) {
+                $pageTitle.html(appTitle);
             }
 
-            // Set large app icon using the iOS app ID if it is not set manually in _config.yml
+            // Büyük ikon
             var $appIconLarge = $(".appIconLarge");
             if (!$appIconLarge.attr('src')) {
-                $($appIconLarge).attr("src", appInfo.artworkUrl512);
+                $appIconLarge.attr("src", iconURL);
             }
 
-            // Set header app icon using the iOS app ID if it is not set manually in _config.yml
+            // Header ikon
             var $appIconHeader = $(".headerIcon");
             if (!$appIconHeader.attr('src')) {
-                $($appIconHeader).attr("src", appInfo.artworkUrl512);
+                $appIconHeader.attr("src", iconURL);
             }
 
-            // Set app name using the iOS app ID if it is not set manually in _config.yml
+            // App ismi
             var $appName = $(".appName");
-            if ($.trim($($appName).text()).length == 0) {
-                $($appName).html(appInfo.trackName);
+            if ($.trim($appName.text()).length == 0) {
+                $appName.html(appTitle);
             }
 
-            // Set the name displayed in the header if it is not set manually in _config.yml
+            // Header name
             var $headerName = $(".headerName");
-            if ($.trim($($headerName).text()).length == 0) {
-                $($headerName).html(appInfo.trackName);
+            if ($.trim($headerName.text()).length == 0) {
+                $headerName.html(appTitle);
             }
 
-            // Set price using the iOS app ID if it is not set manually in _config.yml
+            // Price
             var $appPrice = $(".appPrice");
-            if ($.trim($($appPrice).text()).length == 0) {
-                $($appPrice).html(appInfo.formattedPrice);
+            if ($.trim($appPrice.text()).length == 0) {
+                $appPrice.html(price);
             }
 
-            // Set App Store link using the iOS app ID if it is not set manually in _config.yml
+            // Play Store link
             var $appStoreLink = $(".appStoreLink");
             if ($.trim($appStoreLink.attr('href')).length == 0) {
-                $($appStoreLink).attr("href", appInfo.trackViewUrl);
+                $appStoreLink.attr("href", playStoreURL);
             }
 
-            console.info(appInfo);
-
-        }
-    });  
-});
-
+            console.info({title: appTitle, icon: iconURL, price: price});
+        });
+    });
 </script>
 
 {% endif %}
