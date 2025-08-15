@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saffet Şiraz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Saffet Şiraz</h1>
+        <nav>
+            <a href="#games">Oyunlar</a>
+            <a href="#contact">İletişim</a>
+        </nav>
+    </header>
+    <section id="games">
+        <h2>Oyunlar</h2>
+        <ul>
+            <li>Merge Buddies</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>İletişim</h2>
+        <p>Email: saffet57siraz@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Saffet Şiraz</p>
+    </footer>
+</body>
+</html>
