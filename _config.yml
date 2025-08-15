@@ -7,9 +7,8 @@ android_app_country                       : us                                  
 android_app_lang                          : us
 
 appstore_link                             :                                            # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.Merge.Fellas.Drop.Master.MergeBuddies # Enter Google Play Store URL.
-presskit_download_link                    :                                            # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+playstore_link                            : https://play.google.com/store/apps/details?id=com.Merge.Fellas.Drop.Master.MergeBuddies # Enter Google Play Store URL. 
+                                                                                      
 
 app_icon                                  : assets/appicon.png                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Merge Buddies                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
