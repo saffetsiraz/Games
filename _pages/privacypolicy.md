@@ -5,56 +5,121 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+August 15, 2025 
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# Privacy Policy for Merge Buddies 
+Merge Buddies (“we”, “our”, or “us”), developed by Saffet Şiraz, respects your privacy and is committed to protecting it through this Privacy Policy. This document explains how we collect, use, and safeguard your personal information in compliance with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and other applicable U.S. state privacy laws.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
-<br>
+## 1. Information We Collect
+We may collect the following types of information:
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+Automatically collected data: IP address, device type, operating system, app usage statistics.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Advertising identifiers: Such as Google Advertising ID (for personalized and non-personalized ads).
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Analytics data: Through third-party tools.
+
+Optional information: If you contact us, we may collect your email address or other contact details.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 2. How We Use Your Information
+We use your data for:
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+Improving gameplay and user experience
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+Debugging and fixing issues
 
-<br>
+Showing personalized and non-personalized advertisements
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+Analytics and usage statistics
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Compliance with legal obligations
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 3. Legal Basis for Processing (GDPR)
+Under GDPR, our legal bases for processing your information include:
+
+Consent: For personalized ads and analytics
+
+Legitimate interests: Improving our app and preventing fraud
+
+Legal obligation: When required by law
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 4. U.S. State Privacy Rights
+If you are a resident of certain U.S. states, you may have additional rights under state laws, including but not limited to:
+
+California (CCPA/CPRA)
+
+Virginia (CDPA)
+
+Colorado (CPA)
+
+Connecticut (CTDPA)
+
+Utah (UCPA)
+
+
+Your rights may include:
+
+The right to know what personal data we collect and how we use it
+
+The right to request deletion of your personal data
+
+The right to opt out of the sale or sharing of personal data
+
+The right to correct inaccurate personal data
+
+The right to limit the use and disclosure of sensitive personal data
+
+To exercise these rights, contact us at saffet57siraz@gmail.com.
+
+<br>
+
+## 5. GDPR – Your Rights (EU Users)
+Under GDPR, you have the right to:
+
+Access, correct, or delete your personal data
+
+Withdraw consent at any time
+
+Data portability
+
+Restrict or object to processing
+
+To exercise these rights, contact us at saffet57siraz@gmail.com.
+
+<br>
+
+## 6. Third-Party Services
+We use the following third-party services which may collect information as described in their privacy policies:
+
+Google AdMob – AdMob Privacy Policy
+
+Google Play Services – Google Play Privacy Policy
+
+<br>
+
+## 7. Children’s Privacy
+Our game is designed for everyone but is not directed to children under 13. We do not knowingly collect personal data from children. If you believe we have collected such data, please contact us for deletion.
+
+<br>
+
+## 8. Data Security
+We take reasonable measures to protect your data from unauthorized access, alteration, or destruction.
+
+<br>
+
+## 9. Changes to This Policy
+We may update this Privacy Policy from time to time. The latest version will always be available in our app and on our official link.
+
+<br>
+
+## 10. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Email: saffet57siraz@gmail.com
+
