@@ -1,0 +1,11 @@
+<div class="game-card">
+  <img src="{{ game.logo }}" alt="{{ game.title }} logo" width="150">
+  <h2>{{ game.title }}</h2>
+  <p>{{ game.description }}</p>
+  <a class="button" href="{{ game.playStoreUrl }}" target="_blank">Download on Google Play</a>
+  <div class="screenshots">
+    {% for shot in game.screenshots %}
+      <img src="{{ shot }}" alt="{{ game.title }} screenshot">
+    {% endfor %}
+  </div>
+</div>

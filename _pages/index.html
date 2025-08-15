@@ -1,0 +1,10 @@
+---
+layout: default
+title: "My Google Play Games"
+---
+
+<div class="games-list">
+  {% for game in site.data.games %}
+    {% include game-card.html game=game %}
+  {% endfor %}
+</div>

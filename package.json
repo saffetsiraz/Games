@@ -1,8 +1,0 @@
-{
-  "name": "game-landing",
-  "version": "1.0.0",
-  "scripts": {
-    "generate-pages": "node generate.js"
-  },
-  "dependencies": {}
-}
