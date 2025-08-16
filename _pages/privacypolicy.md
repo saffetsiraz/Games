@@ -5,20 +5,22 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 15, 2025
+August 16, 2025
 
-# Privacy Policy for Merge Buddies
-Merge Buddies (“we”, “our”, or “us”), developed by Saffet Şiraz, respects your privacy and is committed to protecting it through this Privacy Policy. This document explains how we collect, use, and safeguard your personal information in compliance with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and other applicable U.S. state privacy laws.
+# Privacy Policy for Our Games
+Our games (“we”, “our”, or “us”), developed by Saffet Şiraz, respect your privacy and are committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information in compliance with applicable privacy laws, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
 
 
 ## 1. Information We Collect
-We may collect the following types of information:
+We may collect the following information:
 
 Automatically collected data: IP address, device type, operating system, app usage statistics.
 
 Advertising identifiers: Such as Google Advertising ID (for personalized and non-personalized ads).
 
-Analytics data: Through third-party tools.
+Analytics data: Through Firebase Analytics and other third-party tools.
+
+Crash reports: Through Firebase Crashlytics, which collects information about app crashes, device type, and operating system.
 
 Optional information: If you contact us, we may collect your email address or other contact details.
 
@@ -44,27 +46,14 @@ Under GDPR, our legal bases for processing your information include:
 
 Consent: For personalized ads and analytics
 
-Legitimate interests: Improving our app and preventing fraud
+Legitimate interests: Improving our games and preventing fraud
 
 Legal obligation: When required by law
 
 <br>
 
 ## 4. U.S. State Privacy Rights
-If you are a resident of certain U.S. states, you may have additional rights under state laws, including but not limited to:
-
-California (CCPA/CPRA)
-
-Virginia (CDPA)
-
-Colorado (CPA)
-
-Connecticut (CTDPA)
-
-Utah (UCPA)
-
-
-Your rights may include:
+Residents of certain U.S. states may have additional rights under state laws, including California, Virginia, Colorado, Connecticut, and Utah. These rights may include:
 
 The right to know what personal data we collect and how we use it
 
@@ -81,9 +70,9 @@ To exercise these rights, contact us at saffet57siraz@gmail.com.
 <br>
 
 ## 5. GDPR – Your Rights (EU Users)
-Under GDPR, you have the right to:
+Under GDPR, EU users have the right to:
 
-Access, correct, or delete your personal data
+Access, correct, or delete personal data
 
 Withdraw consent at any time
 
@@ -96,16 +85,20 @@ To exercise these rights, contact us at saffet57siraz@gmail.com.
 <br>
 
 ## 6. Third-Party Services
-We use the following third-party services which may collect information as described in their privacy policies:
+Our games use third-party services that may collect information as described in their privacy policies, including:
 
 Google AdMob – AdMob Privacy Policy
 
 Google Play Services – Google Play Privacy Policy
 
+Firebase Analytics – collects app usage and engagement data (Firebase Privacy Policy)
+
+Firebase Crashlytics – collects crash reports and device information to improve app stability (Firebase Privacy Policy)
+
 <br>
 
 ## 7. Children’s Privacy
-Our game is designed for everyone but is not directed to children under 13. We do not knowingly collect personal data from children. If you believe we have collected such data, please contact us for deletion.
+Our games are not directed to children under 13. We do not knowingly collect personal data from children. If you believe we have collected such data, please contact us for deletion.
 
 <br>
 
@@ -115,7 +108,7 @@ We take reasonable measures to protect your data from unauthorized access, alter
 <br>
 
 ## 9. Changes to This Policy
-We may update this Privacy Policy from time to time. The latest version will always be available in our app and on our official link.
+We may update this Privacy Policy from time to time. The latest version will always be available in our games.
 
 <br>
 
