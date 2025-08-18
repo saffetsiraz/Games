@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated** 
+**Last updated**  
 August 16, 2025
 
 # Privacy Policy for Our Games
@@ -88,11 +88,8 @@ To exercise these rights, contact us at saffet57siraz@gmail.com.
 Our games use third-party services that may collect information as described in their privacy policies, including:
 
 Google AdMob – AdMob Privacy Policy
-
 Google Play Services – Google Play Privacy Policy
-
 Firebase Analytics – collects app usage and engagement data (Firebase Privacy Policy)
-
 Firebase Crashlytics – collects crash reports and device information to improve app stability (Firebase Privacy Policy)
 
 <br>
