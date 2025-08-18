@@ -88,8 +88,11 @@ To exercise these rights, contact us at saffet57siraz@gmail.com.
 Our games use third-party services that may collect information as described in their privacy policies, including:
 
 Google AdMob – AdMob Privacy Policy
+
 Google Play Services – Google Play Privacy Policy
+
 Firebase Analytics – collects app usage and engagement data (Firebase Privacy Policy)
+
 Firebase Crashlytics – collects crash reports and device information to improve app stability (Firebase Privacy Policy)
 
 <br>
