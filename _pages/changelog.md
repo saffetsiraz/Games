@@ -11,7 +11,7 @@ You can see the changelog for Merge Buddies here.
 
 ### `Latest`
 
-### **Version 1.012**
+<!-- ### **Version 1.012**
 
 #### What's New
 - Optimized game
@@ -59,4 +59,4 @@ You can see the changelog for Merge Buddies here.
 ## **Version 1.001**
 Game Release on Aug 8, 2025, 7:06 PM
 
-<br>
+<br> -->

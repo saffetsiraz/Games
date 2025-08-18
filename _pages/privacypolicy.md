@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
+**Last updated** 
 August 16, 2025
 
 # Privacy Policy for Our Games
