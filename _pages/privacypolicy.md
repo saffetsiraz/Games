@@ -87,6 +87,8 @@ To exercise these rights, contact us at saffet57siraz@gmail.com.
 ## 6. Third-Party Services
 Our games use third-party services that may collect information as described in their privacy policies, including:
 
+Google AdMob – AdMob Privacy Policy
+
 ironSource LevelPlay – mediation platform for mobile advertising, which may include partner ad networks (ironSource Privacy Policy)
 
 Google Play Services – Google Play Privacy Policy
