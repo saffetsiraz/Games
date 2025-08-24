@@ -71,6 +71,7 @@ We obtain consent from users in the EU for personalized advertising through GDPR
 ## 6. Third-Party Services
 Our games use third-party services that may collect information as described in their privacy policies, including:
 
+- Google Play Services – Google Play Privacy Policy
 - IronSource LevelPlay – mediation platform for mobile advertising. Partner ad networks may include:
     - Unity Ads – collects device and advertising identifiers to serve ads (Unity Privacy Policy)
     - Liftoff – collects device and advertising identifiers to serve ads (Liftoff Privacy Policy)
@@ -79,7 +80,6 @@ Our games use third-party services that may collect information as described in 
     - Yandex – collects device and advertising identifiers to serve ads (Yandex Privacy Policy)
     - Mintegral – collects device and advertising identifiers to serve ads (Mintegral Privacy Policy)
     - AdMob (via LevelPlay) – collects device and advertising identifiers to serve ads (AdMob Privacy Policy)
-- Google Play Services – Google Play Privacy Policy
 - Firebase Analytics – collects app usage and engagement data (Firebase Privacy Policy)
 - Firebase Crashlytics – collects crash reports and device information to improve app stability (Firebase Privacy Policy)
 - Firebase Remote Config – allows us to remotely configure and customize the app experience (Firebase Privacy Policy)
