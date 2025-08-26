@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 24, 2025
+August 26, 2025
 
 # Privacy Policy for Our Games
 Our games (“we”, “our”, or “us”), developed by Saffet Şiraz, respect your privacy and are committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information in compliance with applicable privacy laws, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
