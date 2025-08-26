@@ -76,7 +76,6 @@ Our games use third-party services that may collect information as described in 
     - Unity Ads – collects device and advertising identifiers to serve ads (Unity Privacy Policy)
     - Liftoff – collects device and advertising identifiers to serve ads (Liftoff Privacy Policy)
     - Meta Audience Network – collects device and advertising identifiers to serve ads (Meta Privacy Policy)
-    - Pangle – collects device and advertising identifiers to serve ads (Pangle Privacy Policy)
     - Yandex – collects device and advertising identifiers to serve ads (Yandex Privacy Policy)
     - Mintegral – collects device and advertising identifiers to serve ads (Mintegral Privacy Policy)
     - AdMob (via LevelPlay) – collects device and advertising identifiers to serve ads (AdMob Privacy Policy)
