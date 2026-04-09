@@ -8,17 +8,17 @@ include_in_header: false
 August 25, 2025
 
 # Terms of Service for Our Games
-Welcome to Merge Buddies (“the Game”), developed by Saffet Şiraz (“we”, “our”, or “us”). By downloading, installing, or playing the Game, you agree to be bound by these Terms of Service. Please read them carefully.
+Welcome to Our Games, developed by Saffet Şiraz (“we”, “our”, or “us”). By downloading, installing, or playing the Games we make, you agree to be bound by these Terms of Service. Please read them carefully.
 
 ## 1. Use of the Game
-- The Game is provided for your personal, non-commercial entertainment.
-- You agree not to use the Game for any unlawful or unauthorized purpose.
+- The Games is provided for your personal, non-commercial entertainment.
+- You agree not to use the Games for any unlawful or unauthorized purpose.
 - You must comply with all applicable laws and regulations when using the Game.
 
 <br>
 
 ## 2. Intellectual Property
-- All rights, title, and interest in the Game (including graphics, design, text, and code) are owned by us or our licensors.
+- All rights, title, and interest in the Games (including graphics, design, text, and code) are owned by us or our licensors.
 - You may not copy, modify, distribute, or exploit any part of the Game without our prior written permission.
 
 <br>
@@ -30,7 +30,7 @@ Welcome to Merge Buddies (“the Game”), developed by Saffet Şiraz (“we”,
 <br>
 
 ## 4. Disclaimer of Warranties
-- The Game is provided “as is” without warranties of any kind.
+- The Games is provided “as is” without warranties of any kind.
 - We do not guarantee that the Game will be error-free, secure, or available at all times.
 
 <br>
