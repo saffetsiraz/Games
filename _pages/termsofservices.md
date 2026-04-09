@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 25, 2025
+April 9, 2026
 
 # Terms of Service for Our Games
 Welcome to Our Games, developed by Saffet Şiraz (“we”, “our”, or “us”). By downloading, installing, or playing the Games we make, you agree to be bound by these Terms of Service. Please read them carefully.
