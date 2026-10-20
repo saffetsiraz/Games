@@ -1,0 +1,25 @@
+---
+# Plain page for a single game's legal texts: no site header, so another app's name and icon do not appear.
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ page.title }}</title>
+	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+</head>
+
+<body class="subPageBody">
+	<div class="headerBackground subPageHeaderBackground">
+		<div class="container subPageContainer">
+			<article class="page markdown-body">
+				{{ content }}
+			</article>
+		</div>
+	</div>
+</body>
+
+</html>
