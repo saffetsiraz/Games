@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 21, 2026
+October 22, 2026
 
 # Terms of Service for Vacuum Blocks Puzzle Game
 
@@ -35,27 +35,30 @@ The Game and its content (graphics, design, sound, text and code) are owned by u
 ## 6. Ads
 The Game shows ads from third parties. We are not responsible for the content of these ads or for the products and services they promote. Rewarded ads are optional.
 
-## 7. Privacy
+## 7. Google Play Games
+The leaderboard and achievements are provided through Google Play Games and are optional. Google's terms also apply when you use Google Play Games. Depending on your Play Games settings, other players may see your gamer name, avatar and score. We may remove or correct scores and achievements obtained through cheating, exploits or errors, and we may change, reset or remove leaderboards and achievements.
+
+## 8. Privacy
 Our [Privacy Policy](../privacypolicy/) explains what information is collected when you play and how you can control it.
 
-## 8. Availability and changes to the Game
+## 9. Availability and changes to the Game
 We may update, change or stop offering the Game or any part of it at any time. Some features need an internet connection.
 
-## 9. Disclaimer of warranties
+## 10. Disclaimer of warranties
 The Game is provided "as is" and "as available", without warranties of any kind, to the extent permitted by law. We do not guarantee that the Game will be error-free or always available.
 
-## 10. Limitation of liability
+## 11. Limitation of liability
 To the extent permitted by law, we are not liable for indirect or consequential damages, or for loss of data or virtual items, arising from your use of, or inability to use, the Game. Nothing in these Terms limits liability that cannot be limited by law.
 
-## 11. Termination
+## 12. Termination
 We may suspend or end your access to the Game if you break these Terms. You may stop using the Game at any time by uninstalling it.
 
-## 12. Changes to these Terms
+## 13. Changes to these Terms
 We may update these Terms. The date at the top shows the latest version. If you keep playing after a change, the updated Terms apply.
 
-## 13. Governing law
+## 14. Governing law
 These Terms are governed by the laws of the Republic of Türkiye. If you are a consumer, you also keep the protection of the mandatory consumer laws of the country where you live, and you may bring a claim in the courts of that country.
 
-## 14. Contact
+## 15. Contact
 Lucuxis, Türkiye  
 E-mail: saffet57siraz@gmail.com
